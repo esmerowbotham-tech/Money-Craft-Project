@@ -1,0 +1,217 @@
+month,channel,spend_gbp
+2022-01,Branch,7310.0
+2022-01,Broker/IFA,4014.0
+2022-01,Comparison Site,3162.0
+2022-01,Online,3945.0
+2022-01,Outbound,4899.0
+2022-01,Referral,1872.0
+2022-02,Branch,7882.0
+2022-02,Broker/IFA,1989.0
+2022-02,Comparison Site,3266.0
+2022-02,Online,4231.0
+2022-02,Outbound,5548.0
+2022-02,Referral,2344.0
+2022-03,Branch,6792.0
+2022-03,Broker/IFA,5159.0
+2022-03,Comparison Site,2804.0
+2022-03,Online,5394.0
+2022-03,Outbound,4134.0
+2022-03,Referral,2161.0
+2022-04,Branch,9152.0
+2022-04,Broker/IFA,2358.0
+2022-04,Comparison Site,2765.0
+2022-04,Online,5239.0
+2022-04,Outbound,4415.0
+2022-04,Referral,1876.0
+2022-05,Branch,7144.0
+2022-05,Broker/IFA,4637.0
+2022-05,Comparison Site,3850.0
+2022-05,Online,5145.0
+2022-05,Outbound,4894.0
+2022-05,Referral,1818.0
+2022-06,Branch,7903.0
+2022-06,Broker/IFA,3571.0
+2022-06,Comparison Site,3019.0
+2022-06,Online,5900.0
+2022-06,Outbound,4083.0
+2022-06,Referral,2715.0
+2022-07,Branch,8906.0
+2022-07,Broker/IFA,5366.0
+2022-07,Comparison Site,3974.0
+2022-07,Online,5392.0
+2022-07,Outbound,3506.0
+2022-07,Referral,2703.0
+2022-08,Branch,8143.0
+2022-08,Broker/IFA,5196.0
+2022-08,Comparison Site,4137.0
+2022-08,Online,5458.0
+2022-08,Outbound,5453.0
+2022-08,Referral,2581.0
+2022-09,Branch,7943.0
+2022-09,Broker/IFA,3718.0
+2022-09,Comparison Site,3888.0
+2022-09,Online,6367.0
+2022-09,Outbound,5484.0
+2022-09,Referral,2700.0
+2022-10,Branch,9990.0
+2022-10,Broker/IFA,4790.0
+2022-10,Comparison Site,4717.0
+2022-10,Online,5093.0
+2022-10,Outbound,4654.0
+2022-10,Referral,1526.0
+2022-11,Branch,10300.0
+2022-11,Broker/IFA,6410.0
+2022-11,Comparison Site,4499.0
+2022-11,Online,6698.0
+2022-11,Outbound,5084.0
+2022-11,Referral,3332.0
+2022-12,Branch,7238.0
+2022-12,Broker/IFA,4894.0
+2022-12,Comparison Site,5270.0
+2022-12,Online,5999.0
+2022-12,Outbound,5700.0
+2022-12,Referral,3359.0
+2023-01,Branch,9939.0
+2023-01,Broker/IFA,4871.0
+2023-01,Comparison Site,4938.0
+2023-01,Online,6525.0
+2023-01,Outbound,4521.0
+2023-01,Referral,2802.0
+2023-02,Branch,9533.0
+2023-02,Broker/IFA,4125.0
+2023-02,Comparison Site,3913.0
+2023-02,Online,6309.0
+2023-02,Outbound,6621.0
+2023-02,Referral,3124.0
+2023-03,Branch,8831.0
+2023-03,Broker/IFA,5218.0
+2023-03,Comparison Site,4658.0
+2023-03,Online,7962.0
+2023-03,Outbound,6247.0
+2023-03,Referral,2856.0
+2023-04,Branch,10009.0
+2023-04,Broker/IFA,5297.0
+2023-04,Comparison Site,4954.0
+2023-04,Online,7165.0
+2023-04,Outbound,7255.0
+2023-04,Referral,3082.0
+2023-05,Branch,9568.0
+2023-05,Broker/IFA,6252.0
+2023-05,Comparison Site,4642.0
+2023-05,Online,7316.0
+2023-05,Outbound,4924.0
+2023-05,Referral,2309.0
+2023-06,Branch,9331.0
+2023-06,Broker/IFA,6489.0
+2023-06,Comparison Site,4409.0
+2023-06,Online,8273.0
+2023-06,Outbound,5902.0
+2023-06,Referral,3376.0
+2023-07,Branch,10323.0
+2023-07,Broker/IFA,5365.0
+2023-07,Comparison Site,4640.0
+2023-07,Online,6488.0
+2023-07,Outbound,6699.0
+2023-07,Referral,2539.0
+2023-08,Branch,10327.0
+2023-08,Broker/IFA,3571.0
+2023-08,Comparison Site,5035.0
+2023-08,Online,7390.0
+2023-08,Outbound,6792.0
+2023-08,Referral,3374.0
+2023-09,Branch,12198.0
+2023-09,Broker/IFA,6637.0
+2023-09,Comparison Site,5007.0
+2023-09,Online,6940.0
+2023-09,Outbound,6356.0
+2023-09,Referral,2686.0
+2023-10,Branch,11393.0
+2023-10,Broker/IFA,5081.0
+2023-10,Comparison Site,5072.0
+2023-10,Online,8028.0
+2023-10,Outbound,7145.0
+2023-10,Referral,4416.0
+2023-11,Branch,9311.0
+2023-11,Broker/IFA,6537.0
+2023-11,Comparison Site,5006.0
+2023-11,Online,8541.0
+2023-11,Outbound,7128.0
+2023-11,Referral,3968.0
+2023-12,Branch,13418.0
+2023-12,Broker/IFA,6180.0
+2023-12,Comparison Site,5272.0
+2023-12,Online,8823.0
+2023-12,Outbound,7342.0
+2023-12,Referral,2883.0
+2024-01,Branch,10550.0
+2024-01,Broker/IFA,5242.0
+2024-01,Comparison Site,6464.0
+2024-01,Online,10727.0
+2024-01,Outbound,8339.0
+2024-01,Referral,2797.0
+2024-02,Branch,12487.0
+2024-02,Broker/IFA,4764.0
+2024-02,Comparison Site,6144.0
+2024-02,Online,8876.0
+2024-02,Outbound,8622.0
+2024-02,Referral,4681.0
+2024-03,Branch,12463.0
+2024-03,Broker/IFA,6074.0
+2024-03,Comparison Site,5270.0
+2024-03,Online,7540.0
+2024-03,Outbound,6486.0
+2024-03,Referral,2945.0
+2024-04,Branch,12278.0
+2024-04,Broker/IFA,5123.0
+2024-04,Comparison Site,6394.0
+2024-04,Online,10029.0
+2024-04,Outbound,8076.0
+2024-04,Referral,2439.0
+2024-05,Branch,11106.0
+2024-05,Broker/IFA,6304.0
+2024-05,Comparison Site,6261.0
+2024-05,Online,10533.0
+2024-05,Outbound,9022.0
+2024-05,Referral,5054.0
+2024-06,Branch,13465.0
+2024-06,Broker/IFA,7825.0
+2024-06,Comparison Site,6951.0
+2024-06,Online,8862.0
+2024-06,Outbound,8141.0
+2024-06,Referral,4056.0
+2024-07,Branch,12489.0
+2024-07,Broker/IFA,6232.0
+2024-07,Comparison Site,6708.0
+2024-07,Online,9108.0
+2024-07,Outbound,6790.0
+2024-07,Referral,2993.0
+2024-08,Branch,14317.0
+2024-08,Broker/IFA,9234.0
+2024-08,Comparison Site,6975.0
+2024-08,Online,8696.0
+2024-08,Outbound,8643.0
+2024-08,Referral,4282.0
+2024-09,Branch,14501.0
+2024-09,Broker/IFA,6706.0
+2024-09,Comparison Site,6516.0
+2024-09,Online,9209.0
+2024-09,Outbound,9994.0
+2024-09,Referral,3250.0
+2024-10,Branch,13104.0
+2024-10,Broker/IFA,7471.0
+2024-10,Comparison Site,7119.0
+2024-10,Online,9468.0
+2024-10,Outbound,10067.0
+2024-10,Referral,3673.0
+2024-11,Branch,14121.0
+2024-11,Broker/IFA,6978.0
+2024-11,Comparison Site,7509.0
+2024-11,Online,12579.0
+2024-11,Outbound,9002.0
+2024-11,Referral,4992.0
+2024-12,Branch,13802.0
+2024-12,Broker/IFA,5342.0
+2024-12,Comparison Site,7198.0
+2024-12,Online,9074.0
+2024-12,Outbound,11296.0
+2024-12,Referral,4457.0
