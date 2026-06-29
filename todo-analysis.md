@@ -1,2 +1,2 @@
-- do some analysis on which tier has the most churned customers (Muhammad)
+- do some analysis on which tier has the most churned customers (Muhammad in  insights.ipynb)
 - 
